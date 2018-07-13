@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="7">
+<Blob_Params class_id="0" tracking_level="0" version="1">
+	<ColorSet>30</ColorSet>
+	<Colors class_id="1" tracking_level="0" version="0">
+		<count>2</count>
+		<item_version>1</item_version>
+		<item class_id="2" tracking_level="0" version="1">
+			<ColorName>Background</ColorName>
+			<ColorRange class_id="3" tracking_level="0" version="1">
+				<Color1 class_id="4" tracking_level="0" version="1">
+					<Lower class_id="5" tracking_level="0" version="1">
+						<Threshold>0</Threshold>
+					</Lower>
+					<Upper class_id="6" tracking_level="0" version="1">
+						<Threshold>0</Threshold>
+					</Upper>
+					<Circular>0</Circular>
+				</Color1>
+				<Color2>
+					<Lower>
+						<Threshold>0</Threshold>
+					</Lower>
+					<Upper>
+						<Threshold>0</Threshold>
+					</Upper>
+					<Circular>0</Circular>
+				</Color2>
+				<Color3>
+					<Lower>
+						<Threshold>0</Threshold>
+					</Lower>
+					<Upper>
+						<Threshold>0</Threshold>
+					</Upper>
+					<Circular>0</Circular>
+				</Color3>
+			</ColorRange>
+			<DisplayColor class_id="7" tracking_level="0" version="1">
+				<Red>0</Red>
+				<Green>0</Green>
+				<Blue>0</Blue>
+				<Alpha>255</Alpha>
+			</DisplayColor>
+		</item>
+		<item>
+			<ColorName>2</ColorName>
+			<ColorRange>
+				<Color1>
+					<Lower>
+						<Threshold>161</Threshold>
+					</Lower>
+					<Upper>
+						<Threshold>161</Threshold>
+					</Upper>
+					<Circular>1</Circular>
+				</Color1>
+				<Color2>
+					<Lower>
+						<Threshold>174</Threshold>
+					</Lower>
+					<Upper>
+						<Threshold>174</Threshold>
+					</Upper>
+					<Circular>0</Circular>
+				</Color2>
+				<Color3>
+					<Lower>
+						<Threshold>0</Threshold>
+					</Lower>
+					<Upper>
+						<Threshold>255</Threshold>
+					</Upper>
+					<Circular>0</Circular>
+				</Color3>
+			</ColorRange>
+			<DisplayColor>
+				<Red>0</Red>
+				<Green>0</Green>
+				<Blue>255</Blue>
+				<Alpha>255</Alpha>
+			</DisplayColor>
+		</item>
+	</Colors>
+</Blob_Params>
+</boost_serialization>
+
